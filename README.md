@@ -1,4 +1,4 @@
-# 👁️‍🗨️ LHDSR View : Cognitive Data Visualizer & Forensic AI
+# 🫀 LHDSR View : Cognitive Data Visualizer & Forensic AI
 **Status:** Proprietary / Closed Source  
 **Version:** 1.0 (Providence)  
 **Domain:** Semantic Forensics, Cognitive Security, & Multi-Modal AI Orchestration
